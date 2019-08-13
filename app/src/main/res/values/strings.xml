@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blood Pressure</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_text">保存</string>
+    <string name="delete_text">削除</string>
+    <string name="max_text">最高</string>
+    <string name="min_text">最低</string>
+    <string name="pluse_text">脈拍</string>
+</resources>
